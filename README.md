@@ -22,8 +22,8 @@ For the LED strips (I used 1m aluminum bar + 58 leds connected to an XLR male co
 Both projects are equipped with sensitive ADMP401 – MEMS microphones, connected directly to an analog input.
 Only Arduino Nano boards was used here. Both have the AREF pin connected to 3.3V.
 You can download the slightly modified Arduino sketches from here:
-1) Infinity Mirror – Vu_infinity_mirror.zip
-2) VU meter – Bluetooth_VUmeter.zip
+1) Infinity Mirror – [Vu_infinity_mirror.zip](https://github.com/cyberelectronics/Sound-Reactive-Infinity-Mirror/blob/main/Docu/Vu_infinity_mirror.zip)
+2) VU meter – [Bluetooth_VUmeter.zip](https://github.com/cyberelectronics/Sound-Reactive-Infinity-Mirror/blob/main/Docu/Bluetooth_VUmeter.zip)
 
 Connections:
 LED Data pin > D6
